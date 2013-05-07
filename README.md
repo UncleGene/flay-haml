@@ -1,4 +1,4 @@
-flay_haml
+flay-haml
 =========
 
 HAML plugin for flay
